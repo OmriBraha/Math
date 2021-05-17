@@ -1,2 +1,2 @@
-# Math
-Private teacher for math in all levels!
+# One-pager for private teacher (Math)
+Basic html&css
